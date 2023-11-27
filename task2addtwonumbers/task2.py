@@ -25,5 +25,3 @@ class Solution(object):
     lis1 = [1,1,1]
     lis2 = [1,1,2]
     print(addTwoNumbers(0,lis1,lis2))
-    
-
